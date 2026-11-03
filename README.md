@@ -17,6 +17,8 @@ ITA1439_ETHICALHACKING/
 │   │   └── Manoj_Reddy_192311171_ITA1439_CO1_Assignment1.pdf
 │   └── CO2/
 │       └── CO2_Assignment_2_Manoj_Reddy.pdf
+├── CIAS/
+│   └── README.md                          # Continuous Internal Assessment resources
 ├── Labs/
 │   ├── README.md                          # Full lab procedures & commands guide
 │   └── Ethical Hacking (1-7) LAB.docx     # Lab manual & reports (Exp 1-7)
@@ -59,3 +61,4 @@ Detailed procedures and command references can be viewed in [Labs/README.md](Lab
 
 ## 🔒 License & Academic Integrity
 All submissions and materials within this repository are prepared for academic assessment and learning purposes in accordance with university ethical hacking guidelines and authorization frameworks. Live exploitation or unauthorized scanning against production systems without explicit written permission is strictly prohibited.
+

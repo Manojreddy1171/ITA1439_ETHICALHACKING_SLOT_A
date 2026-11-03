@@ -176,3 +176,4 @@ This directory contains the laboratory exercises and command demonstrations cond
   ls -l
   ```
 - **Result:** The `cd`, `cp`, and `ls` commands were executed to navigate directories, copy files, and display directory contents.
+
