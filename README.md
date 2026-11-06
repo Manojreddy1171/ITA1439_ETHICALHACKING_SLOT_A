@@ -25,11 +25,11 @@ ITA1439_ETHICALHACKING/
 │   ├── CIA5/
 │   └── README.md
 ├── Capstone Project/
-│   ├── Review 1/
+│   ├── review1/
 │   │   ├── geo tags/
 │   │   ├── ppt/ (Team2.pptx)
 │   │   └── report/
-│   ├── Review 2/
+│   ├── review2/
 │   │   ├── geo tags/
 │   │   ├── ppt/
 │   │   └── report/
