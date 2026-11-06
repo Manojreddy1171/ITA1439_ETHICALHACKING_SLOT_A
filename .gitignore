@@ -17,7 +17,5 @@ $RECYCLE.BIN/
 *.sublime-project
 *.sublime-workspace
 
-# Deprecated folder renamed to Capstone Project
-Presentations/
 
 
