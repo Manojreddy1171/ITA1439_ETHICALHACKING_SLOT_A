@@ -18,12 +18,29 @@ ITA1439_ETHICALHACKING/
 │   └── CO2/
 │       └── CO2_Assignment_2_Manoj_Reddy.pdf
 ├── CIAS/
-│   └── README.md                          # Continuous Internal Assessment resources
+│   ├── CIA1/
+│   ├── CIA2/
+│   ├── CIA3/
+│   ├── CIA4/
+│   ├── CIA5/
+│   └── README.md
+├── Capstone Project/
+│   ├── Review 1/
+│   │   ├── geo tags/
+│   │   ├── ppt/ (Team2.pptx)
+│   │   └── report/
+│   ├── Review 2/
+│   │   ├── geo tags/
+│   │   ├── ppt/
+│   │   └── report/
+│   ├── Final Review/
+│   │   ├── geo tags/
+│   │   ├── ppt/
+│   │   └── report/
+│   └── README.md
 ├── Labs/
 │   ├── README.md                          # Full lab procedures & commands guide
 │   └── Ethical Hacking (1-7) LAB.docx     # Lab manual & reports (Exp 1-7)
-├── Presentations/
-│   └── Team2.pptx                         # LinkReveal project presentation
 ├── .gitignore
 └── README.md
 ```
@@ -49,13 +66,15 @@ Detailed procedures and command references can be viewed in [Labs/README.md](Lab
 - **Experiment 6:** `touch`, `pwd`, `wget` — File creation, path inspection, and web payload fetching.
 - **Experiment 7:** `cd`, `cp`, `ls` — Directory traversal, file duplication, and validation.
 
-### 3. Project Presentation (`Team2.pptx`)
+### 3. Capstone Project: LinkReveal
+See [Capstone Project/README.md](Capstone%20Project/README.md) for details.
 - **Project Title:** **LinkReveal**
 - **Theme:** Decoupled, Privacy-First Mobile Security Tool for Cloud-Based Malicious URL Detonation and Phishing Analysis.
 - **Supervisor:** Dr. Rajaram P.
-- **Key Features:**
-  - AI-driven URL expansion and reputation analysis using threat intelligence APIs (e.g. Google Safe Browsing).
-  - Fault-tolerant redirect tracing mitigating firewall drops and server timeouts.
+- **Milestones:**
+  - **Review 1:** Problem statement, literature review, baseline architecture (`ppt/Team2.pptx`).
+  - **Review 2:** Prototype implementation, module integration, and threat intelligence testing.
+  - **Final Review:** Final evaluation, full report, demo, and performance analysis.
 
 ---
 
