@@ -17,6 +17,8 @@ Capstone Project/
 │   ├── ppt/
 │   │   └── Team2.pptx
 │   └── report/
+│       ├── LinkReveal_Capstone_Report.docx
+│       └── LinkReveal_Capstone_Report.pdf
 ├── review2/
 │   ├── geo tags/
 │   ├── ppt/

@@ -15,8 +15,14 @@ ITA1439_ETHICALHACKING/
 │   ├── CO1/
 │   │   ├── Manoj_Reddy_192311171_ITA1439_CO1_Assignment1.docx
 │   │   └── Manoj_Reddy_192311171_ITA1439_CO1_Assignment1.pdf
-│   └── CO2/
-│       └── CO2_Assignment_2_Manoj_Reddy.pdf
+│   ├── CO2/
+│   │   └── CO2_Assignment_2_Manoj_Reddy.pdf
+│   ├── CO3/
+│   │   └── CO3_Assignment_3.pdf
+│   ├── CO4/
+│   │   └── CO4_Assignment_4.pdf
+│   └── CO5/
+│       └── CO5_Assignment_5.pdf
 ├── CIAS/
 │   ├── CIA1/
 │   │   └── CIA1_ETHICALHACKING.pdf
@@ -29,7 +35,7 @@ ITA1439_ETHICALHACKING/
 │   ├── review1/
 │   │   ├── geo tags/
 │   │   ├── ppt/ (Team2.pptx)
-│   │   └── report/
+│   │   └── report/ (LinkReveal_Capstone_Report.pdf/.docx)
 │   ├── review2/
 │   │   ├── geo tags/
 │   │   ├── ppt/
@@ -55,6 +61,9 @@ ITA1439_ETHICALHACKING/
   - Scope definition, authorization policies, legal framework, threat modeling, lab environment rules, and responsible vulnerability disclosure.
 - **CO2 - Assignment 2:** *Reconnaissance, Footprinting & Network Assessment.*
   - Target analysis, enumeration, and risk assessment strategies.
+- **CO3 - Assignment 3:** *System Hacking, Enumeration & Vulnerability Assessment.*
+- **CO4 - Assignment 4:** *Web Application Security & Attack Vectors.*
+- **CO5 - Assignment 5:** *Wireless & Network Exploitation, Defensive Countermeasures.*
 
 ### 2. Lab Experiments (Kali Linux)
 Detailed procedures and command references can be viewed in [Labs/README.md](Labs/README.md).
