@@ -18,7 +18,8 @@ Capstone Project/
 │   │   └── Team2.pptx
 │   └── report/
 │       ├── LinkReveal_Capstone_Report.docx
-│       └── LinkReveal_Capstone_Report.pdf
+│       ├── LinkReveal_Capstone_Report.pdf
+│       └── SOMU1.docx
 ├── review2/
 │   ├── geo tags/
 │   ├── ppt/

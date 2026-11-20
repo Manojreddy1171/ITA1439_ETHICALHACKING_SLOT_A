@@ -11,6 +11,12 @@ Coursework, laboratory exercises, assignments, and presentations for **ITA1439: 
 
 ```text
 ITA1439_ETHICALHACKING/
+├── Activity/
+│   ├── GEO TAG 1.jpeg
+│   ├── GEO TAG 2.jpeg
+│   ├── PBL_RPC_Null_Sessions_8_Slides.pptx
+│   ├── VEDIO.mp4
+│   └── README.md
 ├── Assignments/
 │   ├── CO1/
 │   │   ├── Manoj_Reddy_192311171_ITA1439_CO1_Assignment1.docx
@@ -27,6 +33,7 @@ ITA1439_ETHICALHACKING/
 │   ├── CIA1/
 │   │   └── CIA1_ETHICALHACKING.pdf
 │   ├── CIA2/
+│   │   └── CIA2_ETHICALHACKING.pdf
 │   ├── CIA3/
 │   ├── CIA4/
 │   ├── CIA5/
@@ -35,7 +42,7 @@ ITA1439_ETHICALHACKING/
 │   ├── review1/
 │   │   ├── geo tags/
 │   │   ├── ppt/ (Team2.pptx)
-│   │   └── report/ (LinkReveal_Capstone_Report.pdf/.docx)
+│   │   └── report/ (LinkReveal_Capstone_Report.pdf/.docx, SOMU1.docx)
 │   ├── review2/
 │   │   ├── geo tags/
 │   │   ├── ppt/
@@ -46,8 +53,10 @@ ITA1439_ETHICALHACKING/
 │   │   └── report/
 │   └── README.md
 ├── Labs/
-│   ├── README.md                          # Full lab procedures & commands guide
-│   └── Ethical Hacking (1-7) LAB.docx     # Lab manual & reports (Exp 1-7)
+│   ├── README.md                                             # Lab procedures & commands guide
+│   ├── Ethical Hacking (1-7) LAB.docx                        # Lab manual (Exp 1-7)
+│   ├── ITA14_Ethical_Hacking_25_Experiments.docx             # 25 Experiments manual
+│   └── ITA14_Ethical_Hacking_25_Experiments_A_Manoj_Reddy.pdf # 25 Experiments complete record
 ├── .gitignore
 └── README.md
 ```
@@ -82,9 +91,14 @@ See [Capstone Project/README.md](Capstone%20Project/README.md) for details.
 - **Theme:** Decoupled, Privacy-First Mobile Security Tool for Cloud-Based Malicious URL Detonation and Phishing Analysis.
 - **Supervisor:** Dr. Rajaram P.
 - **Milestones:**
-  - **Review 1:** Problem statement, literature review, baseline architecture (`ppt/Team2.pptx`).
+  - **Review 1:** Problem statement, literature review, baseline architecture (`ppt/Team2.pptx`, reports).
   - **Review 2:** Prototype implementation, module integration, and threat intelligence testing.
   - **Final Review:** Final evaluation, full report, demo, and performance analysis.
+
+### 4. Problem-Based Learning (PBL) Activity
+See [Activity/README.md](Activity/README.md) for details.
+- **Topic:** **RPC Null Sessions & Network Exploitation Mitigation**
+- **Deliverables:** Presentation (`PBL_RPC_Null_Sessions_8_Slides.pptx`), demonstration video (`VEDIO.mp4`), and geotagged documentation.
 
 ---
 
