@@ -40,12 +40,19 @@ ITA1439_ETHICALHACKING/
 │   └── README.md
 ├── Capstone Project/
 │   ├── review1/
-│   │   ├── geo tags/
+│   │   ├── geo tags/ (tag1.jpeg, tag2.jpeg)
 │   │   ├── ppt/ (Team2.pptx)
-│   │   └── report/ (LinkReveal_Capstone_Report.pdf/.docx, SOMU1.docx)
+│   │   ├── report/ (LinkReveal_Capstone_Report.pdf/.docx, SOMU1.docx)
+│   │   ├── vedio/ (vedio.mp4)
+│   │   ├── module1_architecture.jpg
+│   │   ├── module2_architecture.jpg
+│   │   ├── module3_architecture.jpg
+│   │   ├── Thank_You_Letter_Dr_Rajaram.docx (.jpg)
+│   │   └── thank_you_slide.jpg
 │   ├── review2/
-│   │   ├── geo tags/
-│   │   ├── ppt/
+│   │   ├── geo tags/ (GEOTAG1.jpeg, GEOTAG2.jpeg)
+│   │   ├── ppt/ (LinkReveal_v2.pptx)
+│   │   ├── VEDIO/ (VIDEO.mp4)
 │   │   └── report/
 │   ├── Final Review/
 │   │   ├── geo tags/
